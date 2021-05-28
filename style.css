@@ -1,0 +1,64 @@
+body{
+    background-image: url("Bg.jpg");
+    text-align: center;
+}
+
+#p1_login_div{
+    background-color: aquamarine;
+    text-align: center;
+    border-style: groove;
+    border-top: lawngreen;
+    border-bottom: lawngreen;
+    border-left: lightcoral;
+    border-right: lightcoral;
+    border-width: 5px;
+    border-radius: 25px;
+}
+
+#p2_login_div{
+    background-color: aquamarine;
+    text-align: center;
+    border-style: groove;
+    border-top: lawngreen;
+    border-bottom: lawngreen;
+    border-left: lightcoral;
+    border-right: lightcoral;
+    border-width: 5px;
+    border-radius: 25px;
+}
+
+.information{
+    color: #64DD17;
+    background-color: blue;
+    border: outset;
+    border-color: #FFEB3B;
+    border-width: 10px;
+}
+
+#player_1_input{
+    border: dashed;
+    border-width: 3px;
+    border-color: #4A148C;
+    background-color: #B3E5FC;
+}
+
+#player_2_input{
+    border: dashed;
+    border-width: 3px;
+    border-color: #4A148C;
+    background-color: #B3E5FC;
+}
+
+#heading{
+    font-size: 25px;
+    font-family: algerian;
+    color: blueviolet;
+    background-color: #EF5350;
+}
+
+#login_button{
+    font-size: 20px;
+    color: green;
+    background-color: orange;
+    font-family: Kristen ITC;
+}
